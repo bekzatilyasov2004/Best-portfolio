@@ -12,7 +12,7 @@ function App() {
 
   return (
 
-    <Box className='body'>
+    <Box className='body no-scrollbar'>
       <Layout />
     </Box>
 
@@ -20,3 +20,4 @@ function App() {
 }
 
 export default App;
+
